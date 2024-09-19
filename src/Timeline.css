@@ -1,0 +1,62 @@
+.items-container{
+  background-color: #0f0f0f; /* Replace with your desired color */
+  padding: 20px; /* Optional: Add padding for better spacing */
+}
+.items-container h1{
+  color: white;
+  padding: 20px; /* Optional: Add padding for better spacing */
+}
+
+
+/* Ensure overall styles are applied */
+.vertical-timeline {
+    color: black;
+  }
+  
+  /* Styles for timeline elements */
+  .vertical-timeline-element {
+    border-color: black !important; /* Ensure the border color is black */
+  }
+  
+  .vertical-timeline-element-content {
+    background: white !important;
+    color: rgb(39, 40, 34) !important;
+  }
+  
+  .vertical-timeline-element-content-arrow {
+    border-right: 7px solid rgb(255, 255, 255) !important;
+  }
+  
+  .vertical-timeline-element-date {
+    color: black !important;
+  }
+  
+  /* Target specific elements inside timeline */
+  .vertical-timeline-element h3 {
+    color: rgb(39, 40, 34) !important;
+  }
+  
+  .vertical-timeline-element h4 {
+    color: rgb(39, 40, 34) !important;
+  }
+  
+  .vertical-timeline-element p {
+    color: rgb(39, 40, 34) !important;
+  }
+  
+  .vertical-timeline-element span {
+    font-family: 'Alagard';
+    color: rgb(255, 255, 255) !important;
+  }
+  
+  .svg-inline--fa {
+    color: black !important;
+  }
+
+  
+  @media screen and (max-width: 1170px) {
+    .vertical-timeline-element-date {
+      color: rgb(39, 40, 34) !important;
+    }
+  }
+  
