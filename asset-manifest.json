@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/EchoesOfTheAbyss/static/css/main.214dce5c.css",
+    "main.css": "/EchoesOfTheAbyss/static/css/main.a7a98d68.css",
     "main.js": "/EchoesOfTheAbyss/static/js/main.6a2d1e80.js",
     "static/js/453.93b9a38c.chunk.js": "/EchoesOfTheAbyss/static/js/453.93b9a38c.chunk.js",
     "static/media/bg-light.png": "/EchoesOfTheAbyss/static/media/bg-light.bac0efb485244a522981.png",
-    "static/media/echogame.png": "/EchoesOfTheAbyss/static/media/echogame.edb9107c7071c87882dd.png",
+    "static/media/echogame.png": "/EchoesOfTheAbyss/static/media/echogame.fda128e77079c7b12756.png",
     "static/media/alagard.ttf": "/EchoesOfTheAbyss/static/media/alagard.685ec71b2fb55a5702b0.ttf",
     "index.html": "/EchoesOfTheAbyss/index.html",
-    "main.214dce5c.css.map": "/EchoesOfTheAbyss/static/css/main.214dce5c.css.map",
+    "main.a7a98d68.css.map": "/EchoesOfTheAbyss/static/css/main.a7a98d68.css.map",
     "main.6a2d1e80.js.map": "/EchoesOfTheAbyss/static/js/main.6a2d1e80.js.map",
     "453.93b9a38c.chunk.js.map": "/EchoesOfTheAbyss/static/js/453.93b9a38c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.214dce5c.css",
+    "static/css/main.a7a98d68.css",
     "static/js/main.6a2d1e80.js"
   ]
 }
