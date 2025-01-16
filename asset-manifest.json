@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/EchoesOfTheAbyss/static/css/main.ba2b0437.css",
-    "main.js": "/EchoesOfTheAbyss/static/js/main.730939f2.js",
+    "main.css": "/EchoesOfTheAbyss/static/css/main.6c486614.css",
+    "main.js": "/EchoesOfTheAbyss/static/js/main.cdd81686.js",
     "static/js/453.93b9a38c.chunk.js": "/EchoesOfTheAbyss/static/js/453.93b9a38c.chunk.js",
     "static/media/bg-light.png": "/EchoesOfTheAbyss/static/media/bg-light.bac0efb485244a522981.png",
-    "static/media/echogame.png": "/EchoesOfTheAbyss/static/media/echogame.593c7518e6bf529b5290.png",
     "static/media/gallery4.png": "/EchoesOfTheAbyss/static/media/gallery4.c7aa46dcd437e2e552ea.png",
     "static/media/gallery2.png": "/EchoesOfTheAbyss/static/media/gallery2.cfdbed6d2474f448725d.png",
     "static/media/gallery3.png": "/EchoesOfTheAbyss/static/media/gallery3.a23747f9f0f573a415e8.png",
     "static/media/gallery1.png": "/EchoesOfTheAbyss/static/media/gallery1.6e564d6af29f47b24d11.png",
+    "static/media/logowebsite.png": "/EchoesOfTheAbyss/static/media/logowebsite.efc17fda89fb45051645.png",
     "static/media/alagard.ttf": "/EchoesOfTheAbyss/static/media/alagard.685ec71b2fb55a5702b0.ttf",
     "index.html": "/EchoesOfTheAbyss/index.html",
-    "main.ba2b0437.css.map": "/EchoesOfTheAbyss/static/css/main.ba2b0437.css.map",
-    "main.730939f2.js.map": "/EchoesOfTheAbyss/static/js/main.730939f2.js.map",
+    "main.6c486614.css.map": "/EchoesOfTheAbyss/static/css/main.6c486614.css.map",
+    "main.cdd81686.js.map": "/EchoesOfTheAbyss/static/js/main.cdd81686.js.map",
     "453.93b9a38c.chunk.js.map": "/EchoesOfTheAbyss/static/js/453.93b9a38c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ba2b0437.css",
-    "static/js/main.730939f2.js"
+    "static/css/main.6c486614.css",
+    "static/js/main.cdd81686.js"
   ]
 }
