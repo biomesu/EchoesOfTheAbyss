@@ -1,22 +1,32 @@
 {
   "files": {
-    "main.css": "/EchoesOfTheAbyss/static/css/main.6c486614.css",
-    "main.js": "/EchoesOfTheAbyss/static/js/main.5c22ddc0.js",
+    "main.css": "/EchoesOfTheAbyss/static/css/main.54d76476.css",
+    "main.js": "/EchoesOfTheAbyss/static/js/main.3ad57d8a.js",
     "static/js/453.93b9a38c.chunk.js": "/EchoesOfTheAbyss/static/js/453.93b9a38c.chunk.js",
     "static/media/bg-light.png": "/EchoesOfTheAbyss/static/media/bg-light.bac0efb485244a522981.png",
-    "static/media/gallery4.png": "/EchoesOfTheAbyss/static/media/gallery4.c7aa46dcd437e2e552ea.png",
-    "static/media/gallery2.png": "/EchoesOfTheAbyss/static/media/gallery2.cfdbed6d2474f448725d.png",
-    "static/media/gallery3.png": "/EchoesOfTheAbyss/static/media/gallery3.a23747f9f0f573a415e8.png",
+    "static/media/gallery4.png": "/EchoesOfTheAbyss/static/media/gallery4.de7e20ae19c64da990a9.png",
+    "static/media/starboss.png": "/EchoesOfTheAbyss/static/media/starboss.ba8edb8345f7e66deba9.png",
+    "static/media/videosettings.png": "/EchoesOfTheAbyss/static/media/videosettings.416ed8052109e844a97f.png",
+    "static/media/settings.png": "/EchoesOfTheAbyss/static/media/settings.b1e52113f7694d6b7aee.png",
     "static/media/mainmenu.png": "/EchoesOfTheAbyss/static/media/mainmenu.47464ad09670ac855fe2.png",
+    "static/media/boogergun.png": "/EchoesOfTheAbyss/static/media/boogergun.4dc52b5d29a5ee1af3a8.png",
+    "static/media/shotgun.png": "/EchoesOfTheAbyss/static/media/shotgun.f8a29d41001d97d0d7bd.png",
+    "static/media/sharkgun.png": "/EchoesOfTheAbyss/static/media/sharkgun.9479bc112d7904a96dd8.png",
+    "static/media/cactusgun.png": "/EchoesOfTheAbyss/static/media/cactusgun.5757ee23347fce5f0ce1.png",
+    "static/media/minigun.png": "/EchoesOfTheAbyss/static/media/minigun.dcf77398ddc9e73ee4c0.png",
+    "static/media/lightning_gun.png": "/EchoesOfTheAbyss/static/media/lightning_gun.707c2440c29cc7e486ce.png",
+    "static/media/confettigun.png": "/EchoesOfTheAbyss/static/media/confettigun.5980656a97bf7e1bb635.png",
     "static/media/logowebsite.png": "/EchoesOfTheAbyss/static/media/logowebsite.efc17fda89fb45051645.png",
     "static/media/alagard.ttf": "/EchoesOfTheAbyss/static/media/alagard.685ec71b2fb55a5702b0.ttf",
+    "static/media/goosegun.png": "/EchoesOfTheAbyss/static/media/goosegun.902d54bc3bd104ba01ed.png",
+    "static/media/pistol.png": "/EchoesOfTheAbyss/static/media/pistol.b0ef139ecf3933a2c00b.png",
     "index.html": "/EchoesOfTheAbyss/index.html",
-    "main.6c486614.css.map": "/EchoesOfTheAbyss/static/css/main.6c486614.css.map",
-    "main.5c22ddc0.js.map": "/EchoesOfTheAbyss/static/js/main.5c22ddc0.js.map",
+    "main.54d76476.css.map": "/EchoesOfTheAbyss/static/css/main.54d76476.css.map",
+    "main.3ad57d8a.js.map": "/EchoesOfTheAbyss/static/js/main.3ad57d8a.js.map",
     "453.93b9a38c.chunk.js.map": "/EchoesOfTheAbyss/static/js/453.93b9a38c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6c486614.css",
-    "static/js/main.5c22ddc0.js"
+    "static/css/main.54d76476.css",
+    "static/js/main.3ad57d8a.js"
   ]
 }
