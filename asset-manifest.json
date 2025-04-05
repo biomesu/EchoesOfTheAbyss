@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/EchoesOfTheAbyss/static/css/main.09b3a377.css",
-    "main.js": "/EchoesOfTheAbyss/static/js/main.92415c42.js",
+    "main.css": "/EchoesOfTheAbyss/static/css/main.426c033f.css",
+    "main.js": "/EchoesOfTheAbyss/static/js/main.344deca0.js",
     "static/js/453.93b9a38c.chunk.js": "/EchoesOfTheAbyss/static/js/453.93b9a38c.chunk.js",
     "static/media/bg-light.png": "/EchoesOfTheAbyss/static/media/bg-light.bac0efb485244a522981.png",
     "static/media/gallery4.png": "/EchoesOfTheAbyss/static/media/gallery4.de7e20ae19c64da990a9.png",
@@ -14,18 +14,18 @@
     "static/media/cactusgun.png": "/EchoesOfTheAbyss/static/media/cactusgun.5757ee23347fce5f0ce1.png",
     "static/media/minigun.png": "/EchoesOfTheAbyss/static/media/minigun.dcf77398ddc9e73ee4c0.png",
     "static/media/lightning_gun.png": "/EchoesOfTheAbyss/static/media/lightning_gun.707c2440c29cc7e486ce.png",
-    "static/media/mainmenu.png": "/EchoesOfTheAbyss/static/media/mainmenu.d26b3ff30b9885c1ee8f.png",
+    "static/media/mainmenu.png": "/EchoesOfTheAbyss/static/media/mainmenu.ba2580ab6d3620a9df3e.png",
     "static/media/confettigun.png": "/EchoesOfTheAbyss/static/media/confettigun.5980656a97bf7e1bb635.png",
     "static/media/alagard.ttf": "/EchoesOfTheAbyss/static/media/alagard.685ec71b2fb55a5702b0.ttf",
     "static/media/goosegun.png": "/EchoesOfTheAbyss/static/media/goosegun.902d54bc3bd104ba01ed.png",
     "static/media/pistol.png": "/EchoesOfTheAbyss/static/media/pistol.b0ef139ecf3933a2c00b.png",
     "index.html": "/EchoesOfTheAbyss/index.html",
-    "main.09b3a377.css.map": "/EchoesOfTheAbyss/static/css/main.09b3a377.css.map",
-    "main.92415c42.js.map": "/EchoesOfTheAbyss/static/js/main.92415c42.js.map",
+    "main.426c033f.css.map": "/EchoesOfTheAbyss/static/css/main.426c033f.css.map",
+    "main.344deca0.js.map": "/EchoesOfTheAbyss/static/js/main.344deca0.js.map",
     "453.93b9a38c.chunk.js.map": "/EchoesOfTheAbyss/static/js/453.93b9a38c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.09b3a377.css",
-    "static/js/main.92415c42.js"
+    "static/css/main.426c033f.css",
+    "static/js/main.344deca0.js"
   ]
 }
