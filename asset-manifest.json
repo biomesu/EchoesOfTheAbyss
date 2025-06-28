@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/EchoesOfTheAbyss/static/css/main.426c033f.css",
+    "main.css": "/EchoesOfTheAbyss/static/css/main.5652b5c5.css",
     "main.js": "/EchoesOfTheAbyss/static/js/main.2a65ece4.js",
     "static/js/453.93b9a38c.chunk.js": "/EchoesOfTheAbyss/static/js/453.93b9a38c.chunk.js",
     "static/media/bg-light.png": "/EchoesOfTheAbyss/static/media/bg-light.bac0efb485244a522981.png",
@@ -13,17 +13,17 @@
     "static/media/shotgun.png": "/EchoesOfTheAbyss/static/media/shotgun.f8a29d41001d97d0d7bd.png",
     "static/media/cactusgun.png": "/EchoesOfTheAbyss/static/media/cactusgun.5757ee23347fce5f0ce1.png",
     "static/media/lightning_gun.png": "/EchoesOfTheAbyss/static/media/lightning_gun.707c2440c29cc7e486ce.png",
-    "static/media/mainmenu.png": "/EchoesOfTheAbyss/static/media/mainmenu.ba2580ab6d3620a9df3e.png",
     "static/media/confettigun.png": "/EchoesOfTheAbyss/static/media/confettigun.5980656a97bf7e1bb635.png",
     "static/media/alagard.ttf": "/EchoesOfTheAbyss/static/media/alagard.685ec71b2fb55a5702b0.ttf",
     "static/media/goosegun.png": "/EchoesOfTheAbyss/static/media/goosegun.902d54bc3bd104ba01ed.png",
+    "static/media/websitebackground.png": "/EchoesOfTheAbyss/static/media/websitebackground.09c7f4bc970a9f082cf9.png",
     "index.html": "/EchoesOfTheAbyss/index.html",
-    "main.426c033f.css.map": "/EchoesOfTheAbyss/static/css/main.426c033f.css.map",
+    "main.5652b5c5.css.map": "/EchoesOfTheAbyss/static/css/main.5652b5c5.css.map",
     "main.2a65ece4.js.map": "/EchoesOfTheAbyss/static/js/main.2a65ece4.js.map",
     "453.93b9a38c.chunk.js.map": "/EchoesOfTheAbyss/static/js/453.93b9a38c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.426c033f.css",
+    "static/css/main.5652b5c5.css",
     "static/js/main.2a65ece4.js"
   ]
 }
