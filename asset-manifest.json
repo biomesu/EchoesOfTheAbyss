@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/EchoesOfTheAbyss/static/css/main.f66608f2.css",
-    "main.js": "/EchoesOfTheAbyss/static/js/main.84f131cd.js",
-    "static/js/453.f5b21515.chunk.js": "/EchoesOfTheAbyss/static/js/453.f5b21515.chunk.js",
+    "main.js": "/EchoesOfTheAbyss/static/js/main.46dc6e96.js",
+    "static/js/453.bacf9284.chunk.js": "/EchoesOfTheAbyss/static/js/453.bacf9284.chunk.js",
     "static/media/canopy_kingdom_trailer.mp4": "/EchoesOfTheAbyss/static/media/canopy_kingdom_trailer.5ab74de5a2ef9fc1dbf7.mp4",
     "index.html": "/EchoesOfTheAbyss/index.html",
     "main.f66608f2.css.map": "/EchoesOfTheAbyss/static/css/main.f66608f2.css.map",
-    "main.84f131cd.js.map": "/EchoesOfTheAbyss/static/js/main.84f131cd.js.map",
-    "453.f5b21515.chunk.js.map": "/EchoesOfTheAbyss/static/js/453.f5b21515.chunk.js.map"
+    "main.46dc6e96.js.map": "/EchoesOfTheAbyss/static/js/main.46dc6e96.js.map",
+    "453.bacf9284.chunk.js.map": "/EchoesOfTheAbyss/static/js/453.bacf9284.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f66608f2.css",
-    "static/js/main.84f131cd.js"
+    "static/js/main.46dc6e96.js"
   ]
 }
